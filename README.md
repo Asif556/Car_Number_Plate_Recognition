@@ -23,7 +23,6 @@ The dataset used for training is from **Roboflow**. It contains images of cars w
   - **Validation Set**: 2000+ images
   - **Test Set**: 1000+ images
 
-You can access the dataset from **Roboflow** (include a link to the dataset if applicable).
 
 ## Model Details
 
